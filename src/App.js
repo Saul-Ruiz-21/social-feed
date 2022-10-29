@@ -1,5 +1,5 @@
-import NavB from "./Components/Header/NavBar";
-import CreatePost from "./Components/Posts/CreatePosts";
+import NavB from "./Components/NavBar/NavBar";
+import CreatePost from "./Components/CreatePostForm/CreatePostForm";
 
 function App() {
   return (
