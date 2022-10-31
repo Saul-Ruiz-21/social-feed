@@ -1,0 +1,25 @@
+.borderbox {
+    text-align: center;
+}
+.BorderBox {
+    text-align: center;
+}
+
+.borderbox input {
+    padding: 1px;
+    border-radius: 10px;
+}
+
+.BorderBox input {
+    padding: 5em;
+    border-radius: 20px;
+}
+
+.surroundingbox {
+    padding: 50px;
+    border: solid red;
+    margin: 40em;
+    margin-top: 80px;
+    border-radius: 2em;
+    margin-bottom: 1em;
+}

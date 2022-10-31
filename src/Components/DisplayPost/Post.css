@@ -1,0 +1,8 @@
+.addPost {
+    border: solid black;
+    padding: 45em;
+    margin: 45em;
+    margin-left: 200px;
+    margin-top: 10px;
+    border-radius: 10em;
+}
