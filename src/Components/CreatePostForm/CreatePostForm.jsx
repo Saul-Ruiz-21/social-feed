@@ -25,7 +25,7 @@ const CreatePost = (props) => {
                 </div>
 
                 <div className="BorderBox">
-                    <label>What's on your mind</label>
+                    <label>Post</label>
                     <input type='text' value={post} onChange={(event) => setPost(event.target.value)} />
                     <button type='submit'>Post</button>
                 </div>

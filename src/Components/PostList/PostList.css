@@ -1,5 +1,9 @@
 .addPost{
-    border: solid black;
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px solid black;
     text-align: center;
+    margin-inline: auto;
+    padding: 20px;
 }
 

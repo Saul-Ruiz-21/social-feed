@@ -11,14 +11,17 @@
 }
 
 .BorderBox input {
-    padding: 5em;
-    border-radius: 20px;
+    box-sizing: border-box;
+    margin-inline: auto;
+    margin-top: 20px;
 }
 
 .surroundingbox {
+    box-sizing: border-box;
+    width: 25%;
+    margin-inline: auto;
     padding: 50px;
-    border: solid red;
-    margin: 40em;
+    border: 3px solid black;
     margin-top: 80px;
     border-radius: 2em;
     margin-bottom: 1em;
